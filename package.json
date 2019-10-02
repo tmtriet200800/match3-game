@@ -23,7 +23,7 @@
     "pixi-sound": "^3.0.3",
     "pixi.js": "^4.7.0",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.3.0"
+    "webpack-dev-server": "^3.1.11"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^5.0.3"
